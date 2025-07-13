@@ -1,12 +1,11 @@
 ---
 layout: default
+title: David Romero
 ---
 
 # ¡Hola! Soy David 👋
 
 Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y me apasiona el desarrollo de software, especialmente backend, APIs REST y tecnologías como Docker y bases de datos (SQL y NoSQL).
-
----
 
 ## 🚀 Proyectos destacados
 
