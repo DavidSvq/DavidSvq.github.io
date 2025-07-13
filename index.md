@@ -37,14 +37,6 @@ FESAC – Desde 2024
 
 ## 🛠️ Habilidades
 
-- Java, C++  
-- MySql, Docker, MongoDB  
-- REST APIs  
-- Git y GitHub  
-
----
-## 🛠️ Habilidades
-
 ### Tecnologías y herramientas
 
 - Java, C++  
