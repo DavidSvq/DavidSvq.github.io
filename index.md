@@ -64,4 +64,4 @@ FESAC – Desde 2024
 
 - Email: davirt@hotmail.com  
 - GitHub: [@DavidSvq](https://github.com/DavidSvq)  
-- LinkedIn: [linkedin.com/in/David](https://www.linkedin.com/in/david-romero-ternero-64114a4a)
+- LinkedIn: [linkedin.com/in/David](https://linkedin.com/in/david-romero-ternero-64114a4a)
