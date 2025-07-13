@@ -4,7 +4,7 @@ layout: default
 
 # ¡Hola! Soy David 👋
 
-Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y me apasiona el desarrollo de software, especialmente backend, APIs REST y tecnologías como Docker y bases de datos NoSQL.
+Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y me apasiona el desarrollo de software, especialmente backend, APIs REST y tecnologías como Docker y bases de datos (SQL y NoSQL).
 
 ---
 
@@ -65,4 +65,4 @@ FESAC – Desde 2024
 
 - Email: davirt@hotmail.com  
 - GitHub: [@DavidSvq](https://github.com/DavidSvq)  
-- LinkedIn: [linkedin.com/in/David](www.linkedin.com/in/david-romero-ternero-64114a4a)
+- LinkedIn: [linkedin.com/in/David](https://www.linkedin.com/in/david-romero-ternero-64114a4a)
