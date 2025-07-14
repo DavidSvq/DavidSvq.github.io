@@ -11,19 +11,19 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y me apasiona
 
 ### Videojuegos API REST con Docker y Java  
 Construcción de una API REST para gestión de videojuegos utilizando Docker para la contenerización y Java como lenguaje backend.  
-[Repositorio](https://github.com/tuusuario/videojuegos-api-rest-docker-java)
+[Repositorio](https://github.com/DavidSvq/videojuegos-api-rest-docker-java)
 
 ### App Web de Recetas  
 Aplicación web para gestión y búsqueda de recetas de cocina, con interfaz sencilla y funcionalidad CRUD.  
-[Repositorio](https://github.com/tuusuario/AppWeb-Receta)
+[Repositorio](https://github.com/DavidSvq/AppWeb-Receta)
 
 ### Docker, MongoDB y Java  
 Proyecto integrando Docker y MongoDB con aplicaciones Java para manejo de bases de datos no relacionales en entornos contenedorizados.  
-[Repositorio](https://github.com/tuusuario/Docker-MongoDB-Java)
+[Repositorio](https://github.com/DavidSvq/Docker-MongoDB-Java)
 
 ### Acepta-El-Reto  
 Soluciones a retos de programación competitiva para mejorar lógica y algoritmos.  
-[Repositorio](https://github.com/tuusuario/Acepta-El-Reto)
+[Repositorio](https://github.com/DavidSvq/Acepta-El-Reto)
 
 ---
 
